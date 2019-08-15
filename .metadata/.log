@@ -1,0 +1,36 @@
+!SESSION 2019-08-14 16:26:10.160 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_TH
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/demonkong/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/demonkong/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2019-08-14 16:26:48.111
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-08-14 16:26:48.111
+!MESSAGE Cannot bind to an undefined command: plug-in='com.hp.fortify.securityassistant', id='com.devinspect.securityassistant.commands.build'
+
+!ENTRY org.eclipse.core.net 1 0 2019-08-14 16:26:48.417
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-14 16:26:48.457
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-08-14 16:27:09.780 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_TH
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/demonkong/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/Users/demonkong/git/maven-demo/ -product org.eclipse.epp.package.jee.product -keyring /Users/demonkong/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2019-08-14 16:27:13.397
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-08-14 16:27:13.397
+!MESSAGE Cannot bind to an undefined command: plug-in='com.hp.fortify.securityassistant', id='com.devinspect.securityassistant.commands.build'
+
+!ENTRY org.eclipse.core.net 1 0 2019-08-14 16:27:15.070
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-14 16:27:15.113
+!MESSAGE Using Apache MINA sshd as ssh client.
